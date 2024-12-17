@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Francis]  
 
-<!--
-**thanky1810/thanky1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-Developer-green?style=flat&logo=node.js)
+![React.js](https://img.shields.io/badge/React.js-Frontend-blue?style=flat&logo=react)
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate developer from VietNam🚀.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 **Skills & Tools**
+
+### Languages & Frameworks
+- **JavaScript** | **Node.js** | **React.js** | **HTML/CSS**
+
+### DevOps & Tools
+
+
+### Databases
+**MySQL**
+
+---
+
+## 🛠️ **Projects**
+
+
+
+## 🌐 **Connect with Me**
+
+
+## 📊 **GitHub Stats**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+
+---
+
+## 🔧 **Daily Tools**
+![Visual Studio Code](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code)
+
+
+---
+
+## 🤝 **Contributions**
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+
+Thank you for visiting! 💻 Feel free to fork, star, or collaborate on any project!
+
+---
+
+
