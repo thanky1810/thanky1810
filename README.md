@@ -35,8 +35,6 @@ Welcome to my GitHub! I'm a passionate developer from VietNam🚀.
 
 ---
 
-## 🤝 **Contributions**
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
 
 Thank you for visiting! 💻 Feel free to fork, star, or collaborate on any project!
 
