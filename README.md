@@ -28,11 +28,6 @@ Welcome to my GitHub! I'm a passionate developer from VietNam🚀.
 ## 🌐 **Connect with Me**
 
 
-## 📊 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
-
----
 
 ## 🔧 **Daily Tools**
 ![Visual Studio Code](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code)
