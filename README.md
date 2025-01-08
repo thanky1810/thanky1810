@@ -6,7 +6,6 @@
 
 Welcome to my GitHub! I'm a passionate developer from VietNam🚀.
 
----
 
 ## 🚀 **Skills & Tools**
 
